@@ -18,6 +18,21 @@ font-family: 'Oswald', sans-serif;
 text-align: center;
 }
 
+li {
+
+  float:right;
+  list-style: none;
+  margin-right: 15px;  
+  
+}
+
+li a {
+  text-decoration: none;
+  font-family: 'Oswald', sans-serif;
+  font-size: 1.5em;
+  color: #007599;
+}
+
 /*Deleted Container settings to allow for easier addition of new images*/
 
 .container {

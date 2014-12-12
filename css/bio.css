@@ -58,11 +58,31 @@ header {
 	padding-bottom: 0px;
 	font-family: 'Oswald', sans-serif;
 	font-size: 20px;
+	position: relative;
 	
 }
 .btn:hover {
 background: #668AFF;
 }
 
+#nav {
+	display:inline;
+	float:right;
+	list-style: none;
+	margin-right: 15px; 
+	position: absolute; 
+	
+}
+
+#nav a {
+	text-decoration: none;
+	font-family: 'Oswald', sans-serif;
+	font-size: 1.5em;
+	color: #007599;
+	display: inline;
+position: relative;
+right: -600px;
+bottom: 158px;
+}
 
 /* Show Grid */

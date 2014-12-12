@@ -60,6 +60,21 @@ nav li img {
 	float: right;
 }
 
+#nav li {
+
+  float:right;
+  list-style: none;
+  margin-right: 15px;  
+  
+}
+
+#nav li a {
+  text-decoration: none;
+  font-family: 'Oswald', sans-serif;
+  font-size: 1.5em;
+  color: #007599;
+}
+
 
 
 /* Show Grid */
